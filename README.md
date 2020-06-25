@@ -29,7 +29,7 @@ allprojects {
 
 Add this dependency to your app _build.gradle_ and apply the plugin at the bottom:
 ```gradle
-implementation 'com.github.grumpyshoe:circle-progress-bar:1.0.0'
+implementation 'com.github.grumpyshoe:circle-progress-bar:1.1.0'
 ```
 
 
